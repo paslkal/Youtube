@@ -1,0 +1,19 @@
+p {
+    font-family:Roboto, Arial ;
+    margin-top: 0;
+    margin-bottom: 0;
+}
+body {
+    margin: 0; /*to make body be a page without "border"*/
+    padding-top: 80px; /*to make header dont cover content*/
+    padding-left: 96px; /*to make sidebar dont cover content and make grid 
+                          move a little bit to the right*/
+    padding-right: 28px; /*to make grid move a little bit to the left */
+    background-color: rgb(248, 241, 241);
+    height: 3000px;    
+}
+a {
+    font-family: Roboto, Arial;
+    color: black;
+    text-decoration: none;
+}
